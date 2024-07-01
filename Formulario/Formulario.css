@@ -1,0 +1,61 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(https://medclinic.com.br/wp-content/uploads/2022/12/Medclinic.jpg);
+    }
+    
+    .container{
+        background-color: #99c5f8e3;
+        max-width: 60%;
+        margin: auto;
+        padding: 1%;
+        border-radius: 20px;
+        box-shadow: 10px 10px 5px #706d6d
+    }
+
+    h1{
+        color: rgba(99c5f8);
+        text-align: center ;
+        color: #99c5f8;
+        background-color: white;
+        text-align: center;
+        border-radius: 5px;
+        margin: 2%;
+    }
+
+    h1,h2,h3,h4{
+        text-align: center;
+    }
+    
+    .Informações{
+        width: fit-content;
+        border: solid 0px;
+        margin-left: 400px;
+    }
+
+    .Sintomas{
+        width: fit-content;
+        border: solid 0px;
+        margin-left: 400px;
+        align-content: center;
+    }
+
+    .Sangue{
+        border: solid 0px;
+        text-align: center;
+    }
+.Botão{
+    text-align: center;
+}
+
+input{
+    width: 250px;
+    padding: 10px;
+    border: 2px solid rgb(14, 72, 179);
+border-radius: 15px;
+}
+
+label{
+    color: rgb(3, 39, 94);
+    font-size: 20px;
+    font-weight: 200;
+}
